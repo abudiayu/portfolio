@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import classes from "./about.module.css";
+import classes from "./About.module.css";
 import { Code, PhoneAndroid, Web } from '@mui/icons-material';
 import abudy from "../assets/abudy.jpg";
 
