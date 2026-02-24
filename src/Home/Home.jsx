@@ -62,4 +62,4 @@ function Home({ showSidebar }) {
   )
 }
 
-export default Home
+export default Home;
